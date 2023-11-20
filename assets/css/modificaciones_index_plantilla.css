@@ -1,0 +1,65 @@
+
+.navbar{
+  height: 100%;
+}
+.nav-link{
+  
+  padding: 30px;
+  
+}
+.texto-negro{
+  color: #000;
+}
+.carrocon_celuar{
+    width: 80%;
+    
+}
+.texto-blanco{
+    color:#fff;
+}
+.contenedorenespanol{
+  background: linear-gradient(to bottom, #3B2E2F, #000000);
+}
+.ocupare80{
+  width: 90%;
+  margin: auto;
+  padding-top: 10%px;
+}
+
+.guerradeconteiners {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.centrado {
+  width: 50%;
+  text-align: center;
+}
+.barrasdetextoconcolorblanco{
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+
+}
+.img-fluid{
+  margin: 0 auto;
+}
+.pad{
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+.cienporciento{
+  height: 100%;
+  width: 100%;
+}
+.contenedormaspeque{
+  width: 90%;
+  margin: 10px auto;
+}
+
+/*Para que el carrusel sea responsive y no sature lo que es el tamañode la pantalla*/
+
